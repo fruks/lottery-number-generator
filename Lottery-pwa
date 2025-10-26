@@ -1,0 +1,10 @@
+lottery-pwa/
+│
+├── lottery-generator.html
+├── sw.js
+├── manifest.json
+└── icons/
+     ├── icon-72x72.png
+     ├── icon-96x96.png
+     ├── icon-192x192.png
+     └── icon-512x512.png
